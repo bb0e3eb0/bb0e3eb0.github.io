@@ -37,16 +37,16 @@ Here's how it works:
 "More than anything the conversation helped me refocus on experiments and their results as my guide in all this." - Cam Burley
 
 
-"I can vouch. Jakob offers great actionable advice that is easy to understand and implement. The amount of value for the price is amazing. Thank you again for your help" - [Shoaib Ahmed](https://twitter.com/ShoaibA323/status/1578324696214704129)
+"I can vouch. Chen offers great actionable advice that is easy to understand and implement. The amount of value for the price is amazing. Thank you again for your help" - [Shoaib Ahmed](https://twitter.com/ShoaibA323/status/1578324696214704129)
 
 
-"I tested this with Jakob and he gave me some really great ideas on building in public that Im going to use 🙏" - [Juho Nenonen](https://twitter.com/JNeponen/status/1578362698697302016)
+"I tested this with Chen and he gave me some really great ideas on building in public that Im going to use 🙏" - [Juho Nenonen](https://twitter.com/JNeponen/status/1578362698697302016)
 
 "Wow, what a value packed 18 mins! Thank you so much, it made so much sense and unlocked a lot of things in my brain." - [Narawastu Indrapradna](https://www.linkedin.com/in/narawastu-indrapradna-a485263b/?originalSubdomain=id)
 
 "Good stuff!" - Paulo Makdisse (founder at [Moat.ai](https://moat.ai))
 
-"Thank you Jakob! I had high expectations and you exceeded them, I really appreciate this! Your advice was even better than I hoped (and I had high hopes!) and I'll be moving forward with this framework in mind." - Zachariah Lewis
+"Thank you Chen! I had high expectations and you exceeded them, I really appreciate this! Your advice was even better than I hoped (and I had high hopes!) and I'll be moving forward with this framework in mind." - Zachariah Lewis
 
 "This has been extremely helpful. Massive thanks!" - [Gabriele Pezzin](https://www.flygohr.com)
 
@@ -55,7 +55,7 @@ Callum Birch](https://twitter.com/callumpbirch)
 
 "I'm constantly debating which business ideas to pursue. Getting a fresh perspective is so valuable. Your personalized critique helped me clarify my own thoughts. You've nudged me towards one of my better ideas, something actually worth pursuing. Can't imagine a better use of $29." - [John Speed](https://twitter.com/John_Speed)
 
-"The amount of value I got from my microconsulting purchase was unbelievable. When you're learning how to build a business, you spend so much time trying to read and find information online, but Jakob used his already acquired knowledge and experience to point me in the right direction for my business. He gave me advice on how to better my landing page, gave me ideas on how to experiment with each step in my funnel, gave me ideas on how to market on social media and much more. This purchase will save you so much time. It was $29 but easily hundreds of dollars worth of value." - [Jen](https://twitter.com/raff_jen)
+"The amount of value I got from my microconsulting purchase was unbelievable. When you're learning how to build a business, you spend so much time trying to read and find information online, but Chen used his already acquired knowledge and experience to point me in the right direction for my business. He gave me advice on how to better my landing page, gave me ideas on how to experiment with each step in my funnel, gave me ideas on how to market on social media and much more. This purchase will save you so much time. It was $29 but easily hundreds of dollars worth of value." - [Jen](https://twitter.com/raff_jen)
 
 ## Why me?
 

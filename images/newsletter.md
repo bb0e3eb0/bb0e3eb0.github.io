@@ -25,7 +25,7 @@ Here’s what newsletter subscribers and blog readers are saying…
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Had a great chat with <a href="https://twitter.com/jakobgreenfeld?ref_src=twsrc%5Etfw">@jakobgreenfeld</a> this week, aka the most productive person on the internet. He creates great content but also walks the walk by, you know, actually making and building stuff. Twitter has it&#39;s downsides but still the best way of meeting interesting new ppl</p>&mdash; MJ Alexander-Scott (@Michaeljon) <a href="https://twitter.com/Michaeljon/status/1517487068670308358?ref_src=twsrc%5Etfw">April 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Thanks Jakob!<br><br>Was reading your blog over the weekend; really digging it!</p>&mdash; Khe Hy (@khemaridh) <a href="https://twitter.com/khemaridh/status/1519698795319070720?ref_src=twsrc%5Etfw">April 28, 2022</a></blockquote> 
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Thanks Chen!<br><br>Was reading your blog over the weekend; really digging it!</p>&mdash; Khe Hy (@khemaridh) <a href="https://twitter.com/khemaridh/status/1519698795319070720?ref_src=twsrc%5Etfw">April 28, 2022</a></blockquote> 
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">thanks for teaching me how to hack the SEC, <a href="https://twitter.com/jakobgreenfeld?ref_src=twsrc%5Etfw">@jakobgreenfeld</a></p>&mdash; Ryan Doyle 🔮 (@Ryan___Doyle) <a href="https://twitter.com/Ryan___Doyle/status/1517568315618648067?ref_src=twsrc%5Etfw">April 22, 2022</a></blockquote> 
 
