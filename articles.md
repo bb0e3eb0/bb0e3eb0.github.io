@@ -17,12 +17,7 @@ permalink: /articles/
   <strong>Popular Articles</strong>
 <div class="noyellowlinks">
   <ul>
-    <li><a href="/insight-porn">No More "Insight Porn"</a></li>
-    <li><a href="/personal-productivity">Effortless personal productivity (or how I learned to love my monkey mind)</a></li>
-    <li><a href="/metrics">Management by metrics leads us astray</a></li>
-    <li><a href="/build_an_audience">Build a business, not an audience</a></li>
-    <li><a href="/stay-in-touch">A simple system I’m using to stay in touch with hundreds of people</a></li>
-    <li><a href="/mba">I've decided to pursue a Bootstrap MBA</a></li>
+    <li><a href="/lorem-ipsum">Lorem ipsum</a></li>
   </ul>
 </div>
 </article>
