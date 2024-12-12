@@ -1,0 +1,29 @@
+
+//
+// VARIABLES
+//
+
+// Colors
+$blue: #4183C4;
+
+// Grays
+$black: #111;
+$darkerGray: #222;
+$darkGray: #444;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+
+// Font stacks
+$helvetica: 'Spectral', serif;
+$helveticaNeue:  'Gentium Basic', serif;
+$georgia: Georgia, serif;
+$nanum: 'Nanum Pen Script', cursive;
+
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}

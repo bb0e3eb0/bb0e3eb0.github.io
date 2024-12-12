@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Basic&family=Gentium+Book+Basic&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Spectral&display=swap" rel="stylesheet">
+    
+    <link rel="alternate" type="application/rss+xml" title="Chen Mor's Blog" href="http://jakobgreenfeld.com/feed/" />
+
+    <script defer data-domain="jakobgreenfeld.com" src="https://plausible.io/js/plausible.js"></script>
+
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  {% if page.datatable == true %}
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <!-- Include the standard DataTables bits -->
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.js"></script>
+    <!-- First, this walks through the tables that occur between ...-begin
+         and ...-end and add the "datatable" class to them.
+         Then it invokes DataTable's standard initializer
+         Credit here: http://www.beardedhacker.com/blog/2015/08/28/add-class-attribute-to-markdown-table/
+      -->
+    <script>
+      $(document).ready(function(){
+          $('table.display').DataTable( {
+              paging: true,
+              stateSave: true,
+              searching: true
+          });
+       });
+    </script>
+    {% endif %}
+
+
+    <!-- Twitter cards -->
+    <meta name="twitter:site"    content="@{{ site.twitter_username }}">
+    <meta name="twitter:creator" content="@{{ page.author }}">
+    <meta name="twitter:title"   content="{{ page.title }}">
+
+    {% if page.summary %}
+    <meta name="twitter:description" content="{{ page.summary }}">
+    {% else %}
+    <meta name="twitter:description" content="{{ site.description }}">
+    {% endif %}
+
+    {% if page.image %}
+    <meta name="twitter:card"  content="summary_large_image">
+    <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+    {% else %}
+    <meta name="twitter:card"  content="summary">
+    <meta name="twitter:image" content="{{ site.title_image }}">
+    {% endif %}
+    <!-- end of Twitter cards -->
+
+    <script defer data-domain="jakobgreenfeld.com" src="https://plausible.io/js/script.js"></script>
+<script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+  
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="c5dc0c72-a94b-4b67-8656-31dccba89812";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+
+</head>
+
+  <body>
+
+    
+
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+          </div>
+
+          <nav>
+            
+            <a href="{{ site.baseurl }}/articles">Essays</a>
+            <!-- <a href="{{ site.baseurl }}/help">Get Help</a> -->
+            
+            <!-- <a href="{{ site.baseurl }}/resources">Buy</a> -->
+            <!-- <a href="{{ site.baseurl }}/experiments">Experiments</a> -->
+            <!-- <a href="{{ site.baseurl }}/podcast">Podcast</a> -->
+            <a href="https://jakobgreenfeld.gumroad.com/l/consult">Consulting</a>
+            <a href="https://playpermissionless.substack.com">Newsletter</a>
+            <!-- <a href="{{ site.baseurl }}/help">Help</a> -->
+            <a href="{{ site.baseurl }}/now">Now</a>
+            <!-- <a href="{{ site.baseurl }}/uses">Uses</a> -->
+            <!-- <a href="{{ site.baseurl }}/about">About</a> -->
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include svg-icons.html %}
+        </footer>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+
+    <script>
+      // trigger plausible(Signup) when input with id member_submit is clicked
+      $('#member_submit').click(function() {
+        plausible('Signup');
+      });
+      </script>
+  </body>
+</html>
