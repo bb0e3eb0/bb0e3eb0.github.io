@@ -17,12 +17,12 @@ So... here we go.
 
 I’ve decided to offer for a limited time micro consulting sessions.
 
-Read more [here](https://jakobgreenfeld.com/hire/).
+Read more [here](/hire/).
 
 # Products and Services
 
 * [Tweets on Demand](https://tweetsondemand.com) - Get a month's worth of tweets in just 30 minutes of your time.
-* [Curated Experiment Ideas](https://jakobgreenfeld.com/experiments) - whenever I decide that it’s time to work on a specific problem, I pull up one of the lists and start experimenting right away
+* [Curated Experiment Ideas](/experiments) - whenever I decide that it’s time to work on a specific problem, I pull up one of the lists and start experimenting right away
 * [Business Brainstorms Bundle](https://jakobgreenfeld.gumroad.com/l/opportunitiespro) - all products I created over the years to help myself and others come up with better business ideas.
 * [Abandoned Assets](https://abandonedassets.io) - Why start from scratch if you can buy an established website from someone who lost interest?
 * [Under the Radar](https://undertheradar.io) - Trend-Signals-as-a-Service
