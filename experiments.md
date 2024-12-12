@@ -7,7 +7,7 @@ image: /images/default.png
 ---
 
 
-My biggest recent breakthrough was the [realization](https://jakobgreenfeld.com/experiment-framework) that to move forward, I don't have to read more books, watch more YouTube videos, or spend more time on Twitter. The only thing that leads to real progress is doing more experiments.
+My biggest recent breakthrough was the [realization](/experiment-framework) that to move forward, I don't have to read more books, watch more YouTube videos, or spend more time on Twitter. The only thing that leads to real progress is doing more experiments.
 
 One of the main challenges I encountered is coming up with good ideas for what kind of experiments I can do. There are tons of ideas out there, but they are buried under mountains of noise. A good non-fiction book will give you maybe one or two solid ideas for experiments. The rest is filler material like stories and anecdotes. And it's just so damn easy to get distracted while researching new ideas.
 
@@ -34,7 +34,7 @@ And of course, I'm always looking for new ideas to add to the lists. I appreciat
 * Grow [Business Brainstorms](https://businessbrainstorms.com) using cross promotions. (h/t Josh Spector)
 * Get article published in major publication by reaching out to editors. (h/t James Clear)
 * Listen to the recording of a fictious magazine article I wrote that describes where I want to be in 10 years every morning. The idea is that this helps to focus on things that truly matter and keep me motivated. (h/t Sam Ovens)
-* Send one message to a peson I want to keep in touch with and one person I would like to know better every day. I wrote about my setup [here](https://jakobgreenfeld.com/stay-in-touch). (h/t Derek Sivers)
+* Send one message to a peson I want to keep in touch with and one person I would like to know better every day. I wrote about my setup [here](/stay-in-touch). (h/t Derek Sivers)
 * Write down one win every day for 100 days. (h/t Aziz Gazipura)
 
 ## My Upcoming Experiments
@@ -46,6 +46,6 @@ And of course, I'm always looking for new ideas to add to the lists. I appreciat
 
 ## My Past Experiments
 
-* Learn entrpreneurship by designing my own [Bootstrap MBA](https://jakobgreenfeld.com/mba). 
+* Learn entrpreneurship by designing my own [Bootstrap MBA](/mba). 
 * Do a ["Writing Week"](https://mobile.twitter.com/jakobgreenfeld/status/1547204224374607873) where I do nothing but writing for a whole week. No reading, no coding, no nothing. (Inspired by Bill Gate's Think Weeks)
 * Write down 10 business ideas every day to exercise my idea muscle.
